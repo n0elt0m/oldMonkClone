@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 100%;
+    height: 200px;
+    background-color: teal;
+}
+.header1{
+    width: 100%;
+    height: 280px;
+    
+    background: transparent;
+    
+    display: flex;
+    align-items: unset;
+    
+    
+    
+}
+.header2{
+    height: 50px;
+    font-size: 35px;
+   font-weight: bold;
+}
+.tex{
+    color: white;
+    padding-left: 75px;
+    
+}
+.headd{
+    background-image: url(images/Background.png);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+.log{
+    padding-left: 150px;
+    height: 100px;
+}
+.options{
+    display: flex;
+    flex-direction: row;
+    
+    padding-left: 300px;
+    color: white;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    padding-right: 20px;
+    height: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    
+    
+}
+
+.opt{
+    padding-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.sub{
+    width: 65%;
+    height: 500px;
+    padding-left: 50px;
+    padding-top: 50px;
+    
+}
+.tex{
+    background-color: transparent;
+    width: 70%;
+    
+}
+.para{
+    color: black;
+}
+.sub{
+    
+    font-size: 19px;
+    
+}
+.glass{
+    padding-top: 69px;
+}
+.content{
+    width: 100%;
+    height: 430px;
+    display: flex;
+    align-items:flex-start;
+    background-color: white;
+}
+.foott{
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    margin-top: 50px;
+    padding: 40px 0 10px 0;
+    text-align: center;
+}
+.foot-content{
+    width: 90%;
+    margin: 0 auto;
+}
+.link{
+    cursor: pointer;
+}
